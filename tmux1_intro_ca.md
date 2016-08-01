@@ -40,7 +40,6 @@ Pots:           compartir, copiar, redistribuir, adaptar, emesclar, transformar 
 Has de:         reconèixer l'autoria de manera apropiada amb la mateixa llicència.
 
 ------------------------------------------------
- 
 
 
 
@@ -205,6 +204,8 @@ o
 
 mou el cursor entre els panes per:
 > prefix amb fletxa esquerra, dreta, cap avall, cap amunt
+zoom dins el pane actual i utilitza la pantalla completa, zoom fora també:
+> prefix z
 tanca el pane actual:
 > prefix x (amb confirmació 'y'=yes)
 

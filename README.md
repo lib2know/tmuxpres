@@ -7,8 +7,8 @@ Contents
 --------
 
 List of presentations we have currently:
-  * tmux I, Introduction (English)
-  * tmux I, Introducció (Català)
+  * tmux I, Introduction (English), for mdp
+  * tmux I, Introducció (Català), per a mdp
 
 Usage 
 -----
@@ -28,13 +28,13 @@ Right now the presentations are optimized for usage with [mdp](https://github.co
 Credits
 -------
 
-Thanks to Laura for correcting all the mistakes in the very first Catalan version, and to Franc and Jordi to review contents. In case you find any mistake in the presentation, that might be added thereafter.
+Thanks to Laura for correcting all the mistakes in the very first Catalan version, and to Franc and Jordi to review contents. In case you find any mistake left in the presentation, please let us know.
 
 Contributions
 -------------
 
 Any contributions are welcome!
-For Example:
+For example help us with:
   * proof reading, english version
   * corrections of mistakes
   * mention missing important informations
@@ -50,6 +50,8 @@ Improvements planned for the future:
   * tmux III, scripting
   * versions for reveal.js
   * versions for LibreOffice Impress
+Latest improvments:
+  * prefix x and prefix z in chapter 5
 
 Licence
 -------

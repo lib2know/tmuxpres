@@ -202,6 +202,10 @@ or
 
 move cursor between panes by:
 > prefix / arrow left, right, up, down
+zoom in the current pane and use full screen, zoom out as well:
+> prefix z
+close current pane:
+> prefix x (plus confirmation 'y'=yes)
 
 ^
 ## Example
@@ -219,7 +223,6 @@ $                                 |
 _________________________________________________________________________________
 
 -------------------------------------------------
-
 
 
 -> # 6. tmux - multiple windows <-
